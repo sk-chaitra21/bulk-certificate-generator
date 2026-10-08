@@ -8,3 +8,4 @@ generated_certificates/*
 
 .pytest_cache/
 .vscode/
+bulk_certificate_generator.db
